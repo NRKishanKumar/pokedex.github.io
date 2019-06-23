@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NRKishanKumar/pokedex.github.io/static/css/main.132a93b0.chunk.css",
-    "main.js": "/NRKishanKumar/pokedex.github.io/static/js/main.d485bb88.chunk.js",
-    "main.js.map": "/NRKishanKumar/pokedex.github.io/static/js/main.d485bb88.chunk.js.map",
-    "runtime~main.js": "/NRKishanKumar/pokedex.github.io/static/js/runtime~main.e6904489.js",
-    "runtime~main.js.map": "/NRKishanKumar/pokedex.github.io/static/js/runtime~main.e6904489.js.map",
-    "static/css/2.0624914a.chunk.css": "/NRKishanKumar/pokedex.github.io/static/css/2.0624914a.chunk.css",
-    "static/js/2.7bfc604d.chunk.js": "/NRKishanKumar/pokedex.github.io/static/js/2.7bfc604d.chunk.js",
-    "static/js/2.7bfc604d.chunk.js.map": "/NRKishanKumar/pokedex.github.io/static/js/2.7bfc604d.chunk.js.map",
-    "index.html": "/NRKishanKumar/pokedex.github.io/index.html",
-    "precache-manifest.7e9403eecf5c728201e92ee1972a56f3.js": "/NRKishanKumar/pokedex.github.io/precache-manifest.7e9403eecf5c728201e92ee1972a56f3.js",
-    "service-worker.js": "/NRKishanKumar/pokedex.github.io/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/NRKishanKumar/pokedex.github.io/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.132a93b0.chunk.css.map": "/NRKishanKumar/pokedex.github.io/static/css/main.132a93b0.chunk.css.map",
-    "static/media/pattern.png": "/NRKishanKumar/pokedex.github.io/static/media/pattern.964c12ef.png"
+    "main.css": "/pokedex.github.io/static/css/main.132a93b0.chunk.css",
+    "main.js": "/pokedex.github.io/static/js/main.22ef2751.chunk.js",
+    "main.js.map": "/pokedex.github.io/static/js/main.22ef2751.chunk.js.map",
+    "runtime~main.js": "/pokedex.github.io/static/js/runtime~main.f7bc5cf3.js",
+    "runtime~main.js.map": "/pokedex.github.io/static/js/runtime~main.f7bc5cf3.js.map",
+    "static/css/2.0624914a.chunk.css": "/pokedex.github.io/static/css/2.0624914a.chunk.css",
+    "static/js/2.92d2e8f7.chunk.js": "/pokedex.github.io/static/js/2.92d2e8f7.chunk.js",
+    "static/js/2.92d2e8f7.chunk.js.map": "/pokedex.github.io/static/js/2.92d2e8f7.chunk.js.map",
+    "index.html": "/pokedex.github.io/index.html",
+    "precache-manifest.dd90bb6854235fe7d516f560922aeeb2.js": "/pokedex.github.io/precache-manifest.dd90bb6854235fe7d516f560922aeeb2.js",
+    "service-worker.js": "/pokedex.github.io/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/pokedex.github.io/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.132a93b0.chunk.css.map": "/pokedex.github.io/static/css/main.132a93b0.chunk.css.map",
+    "static/media/pattern.png": "/pokedex.github.io/static/media/pattern.964c12ef.png"
   }
 }
