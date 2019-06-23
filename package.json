@@ -2,7 +2,7 @@
   "name": "pokedex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nrkishankumar.github.io/pokedex.github.io/",
+  "homepage": "https://nrkishankumar.github.io/pokedex.github.io",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
